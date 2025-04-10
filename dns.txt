@@ -74,7 +74,6 @@
 ||*.tfogc.com^
 ||*.rdt.tfogc.com^
 ||*.ugdtimg.com^
-||*.meituan.net^
 ||*.pglstatp-toutiao.com^
 ||*.pangolin-sdk-toutiao.com^
 ||*.pangolin-sdk-toutiao1.com^
