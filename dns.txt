@@ -74,3 +74,10 @@
 ||1rtb.com^
 ||sdk.1rtb.net^
 ||adukwai.com^
+||rdt.tfogc.com^
+||*.rdt.tfogc.com^
+||pgdt.ugdtimg.com^
+||s3plus.meituan.net^
+||*.meituan.net^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||*.pglstatp-toutiao.com^
